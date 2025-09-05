@@ -13,7 +13,7 @@
 * [Installation et lancement](#-installation-et-lancement)
 * [Gestion des erreurs](#-gestion-des-erreurs)
 * [Technologies utilisées](#-technologies-utilisées)
-* [Licence](#-licence)
+
 * [Auteur](#-auteur)
 
 ## 📌 Contexte
@@ -29,7 +29,7 @@ Le pipeline gère :
 ## 📁 Structure du projet
 
 ```
-ecommerce-analytics/
+final_dataengineering_project/
 │
 ├─ data/
 │  ├─ raw_data/          # Données brutes téléchargées depuis Google Drive
@@ -94,8 +94,8 @@ pip install pandas google-api-python-client google-auth google-auth-httplib2 goo
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/AlphaLansar/ecommerce-analytics.git
-cd ecommerce-analytics
+git clone https://github.com/BalaAndegue/final_dataengineering_project.git
+cd final_dataengeneering_project
 ```
 
 2. Créer les dossiers de données :
@@ -140,4 +140,4 @@ Ce projet n'est pas sous licence.
 ## 💡 Auteur
 
 **BALA ANDEGUE FRANCOIS LIONNEL**
-Formation Data Engineering – Projet TP `ecommerce-analytics`
+Formation Data Engineering – Projet TP `final_dataengeneering_project`

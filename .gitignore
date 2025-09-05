@@ -4,5 +4,5 @@ airflow.cfg
 airflow.db
 data/
 simple_auth_manager_passwords.json.generated
-logs/
+client_secret_601659951847-rbnrlrnlc2rbgjp4fq3n50i64a0hrpc8.apps.googleusercontent.com.json
 env
